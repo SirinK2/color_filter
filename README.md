@@ -15,6 +15,17 @@ Users can input their own Red, Green, Blue, and Opacity values (in Hex), then ap
 ---
 
 ## 📸 Screenshots
+<img width="250" alt="Simulator Screenshot - iPhone 15 - 2025-08-29 at 16 30 42" src="https://github.com/user-attachments/assets/779082e6-fbb9-46e1-ab82-4a31909690ef" />
+
+
+<img width="250" alt="Simulator Screenshot - iPhone 15 - 2025-08-29 at 16 30 09" src="https://github.com/user-attachments/assets/65c00051-50ca-462b-9ed5-a0fdde95ca7a" />
+
+
+<img width="250" alt="Simulator Screenshot - iPhone 15 - 2025-08-29 at 16 30 33" src="https://github.com/user-attachments/assets/91bdc2ac-24b6-4153-a3a6-17a0d9fb74bf" />
+
+
+
+
 
 ---
 
