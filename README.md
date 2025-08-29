@@ -1,16 +1,29 @@
-# color_filter
+# 🎨 Flutter Color Filter
 
-A new Flutter project.
+A Flutter project that lets you create and transform colors using bitwise operations on RGB values.
+Users can input their own Red, Green, Blue, and Opacity values (in Hex), then apply filters to generate new colors.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🎨 Input custom RGBA values.
+- 🔀 Apply bitwise operations (>>, ^, |) to transform RGB.
+- 📋 Display the final hexadecimal color code.
+- 🖼️ Preview both original and filtered colors side by side.
+- 🔧 Simple UI with live updates.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📖 What You’ll Learn
+- How to manipulate raw RGB values in Dart.
+- How to use bitwise operations to transform colors.
+- How to connect UI input fields → real-time color changes.
+
+---
+
+✨ This project is for learning and experimenting with color theory in Flutter.
+It’s also a fun playground for anyone curious about bitwise operations and hex color codes.
